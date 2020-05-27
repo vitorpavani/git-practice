@@ -2,3 +2,4 @@ Name: Vitor Pavan
 Age: 34
 Favorite Color: Red
 New information
+New Information throught Web app
